@@ -1,7 +1,7 @@
 # PinchAppl
- SwiftUI Gestures
- SF Symbols
- App icon
+ SwiftUI Gestures,
+ SF Symbols,
+ App icon,
  Handling pinch gestures
 
 <img width="206" alt="Ekran Resmi 2024-02-24 23 44 35" src="https://github.com/palasmert/PinchAppl/assets/134235672/a950c0b5-8b80-48f5-bdfa-53f9486ec6ff">
